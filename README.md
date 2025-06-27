@@ -1,6 +1,3 @@
-# WireGuard-VPN-Client-to-Site-
-Configurare una VPN di tipo Remote Access VPN (client-to-site) mediante WireGuard
-
 # Configurazione di una VPN Remote Access (Client-to-Site) con WireGuard
 
 Per configurare una VPN di tipo **Remote Access VPN (client-to-site)** mediante WireGuard è necessario attenersi alla seguente guida.
