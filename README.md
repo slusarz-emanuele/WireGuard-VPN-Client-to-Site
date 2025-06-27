@@ -131,7 +131,7 @@ Nel file di configurazione del client, aggiungere le seguenti righe **sotto il b
 Address = 10.8.0.2/32 # IP designato al client
 
 [Peer]
-PublicKey = movxq2wKu7X34BvgJWwEBp/9LYshCYS+YGZxpZG+tAU=
+PublicKey = <PUBLIC_KEY_SERVER>
 AllowedIPs = 10.8.0.0/24
 Endpoint = [<IP_ROUTER>](https://whatismyipaddress.com/):51820 # Default port di ascolto per WireGuard
 PersistentKeepalive = 25
